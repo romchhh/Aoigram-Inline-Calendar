@@ -45,5 +45,3 @@ async def my_parcel(message: types.Message):
     )
 ```python
 
-
-## Demo video
