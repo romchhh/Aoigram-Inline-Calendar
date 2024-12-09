@@ -31,6 +31,10 @@ Ensure you have the following installed:
 
 ## 📖 Usage  
 
+
+![image](https://github.com/user-attachments/assets/0dc85389-a975-4595-90ee-771adf30711f)
+
+
 ### Example Handler  
 
 Add the following handler to your bot to allow users to create a trip and select a date:  
