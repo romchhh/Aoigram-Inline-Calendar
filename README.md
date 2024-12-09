@@ -45,3 +45,7 @@ async def my_parcel(message: types.Message):
     )
 ```python
 
+
+
+![image](https://github.com/user-attachments/assets/a10286ff-6e7a-4da2-b30b-b29ecca8aa58)
+
