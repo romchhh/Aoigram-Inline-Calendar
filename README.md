@@ -31,8 +31,8 @@ Ensure you have the following installed:
 
 ## 📖 Usage  
 
+![image](https://github.com/user-attachments/assets/d024e643-2ee1-4ec0-a176-762ab6204ee7)
 
-![image](https://github.com/user-attachments/assets/0dc85389-a975-4595-90ee-771adf30711f)
 
 
 ### Example Handler  
